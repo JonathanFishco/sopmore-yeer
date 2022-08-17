@@ -28,6 +28,7 @@ namespace freaked_up_a_little
                 " b.very\n" +
                 " c.very\n" +
                 " d.super very dumb");
+            answer = Console.ReadLine();
            if (answer == "d")
             {
                 y++;
@@ -39,6 +40,7 @@ namespace freaked_up_a_little
                 " b.not\n" +
                 " c.not\n" +
                 " d.as cool as my grandma");
+            answer = Console.ReadLine();
             if (answer == "d")
             {
                 y++;
@@ -50,7 +52,7 @@ namespace freaked_up_a_little
                 " b.B\n" +
                 " c.A\n" +
                 " d.the best grade he can");
-            Console.ReadLine();
+            answer = Console.ReadLine();
             if (answer == "d")
             {
                 y++;
