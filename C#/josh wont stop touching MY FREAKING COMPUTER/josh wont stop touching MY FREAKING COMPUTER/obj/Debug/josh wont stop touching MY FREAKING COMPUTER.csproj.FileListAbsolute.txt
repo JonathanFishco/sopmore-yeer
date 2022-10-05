@@ -1,0 +1,4 @@
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\josh wont stop touching MY FREAKING COMPUTER\josh wont stop touching MY FREAKING COMPUTER\obj\Debug\josh wont stop touching MY FREAKING COMPUTER.csproj.AssemblyReference.cache
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\josh wont stop touching MY FREAKING COMPUTER\josh wont stop touching MY FREAKING COMPUTER\obj\Debug\josh wont stop touching MY FREAKING COMPUTER.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\josh wont stop touching MY FREAKING COMPUTER\josh wont stop touching MY FREAKING COMPUTER\obj\Debug\josh wont stop touching MY FREAKING COMPUTER.csproj.GenerateResource.cache
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\josh wont stop touching MY FREAKING COMPUTER\josh wont stop touching MY FREAKING COMPUTER\obj\Debug\josh wont stop touching MY FREAKING COMPUTER.exe

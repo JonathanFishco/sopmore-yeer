@@ -17,6 +17,7 @@ namespace Game
         Sprite p1;
         Chaser p2;
         Ball b1;
+        Ball2 b2;
 
         public Form1()
         {
@@ -26,9 +27,11 @@ namespace Game
             p1 = new Sprite(player);
             p2 = new Chaser(player2);
             b1 = new Ball(Ballpicture, 5, 5);
+            b2 = new Ball2(Ballpicture, 5, 5);
             c.Add(p1);
             c.Add(p2);
-            c.Add(b1);
+           // c.Add(b1);
+            c.Add(b2);
         }
         
         private void Form1_KeyDown(object sender, KeyEventArgs e)
@@ -92,6 +95,8 @@ namespace Game
                 p.Visible = true;
                 Controls.Add(p);
                 c.Add(new Sprite(p));
+                c.Add(new Ball2(p,10,0));
+
             }
 
         }

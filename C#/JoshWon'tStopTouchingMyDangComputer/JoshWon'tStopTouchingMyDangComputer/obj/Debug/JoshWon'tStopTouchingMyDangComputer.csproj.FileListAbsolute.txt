@@ -1,0 +1,8 @@
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyDangComputer\JoshWon'tStopTouchingMyDangComputer\bin\Debug\JoshWon'tStopTouchingMyDangComputer.exe.config
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyDangComputer\JoshWon'tStopTouchingMyDangComputer\bin\Debug\JoshWon'tStopTouchingMyDangComputer.exe
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyDangComputer\JoshWon'tStopTouchingMyDangComputer\bin\Debug\JoshWon'tStopTouchingMyDangComputer.pdb
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyDangComputer\JoshWon'tStopTouchingMyDangComputer\obj\Debug\JoshWon'tStopTouchingMyDangComputer.csproj.AssemblyReference.cache
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyDangComputer\JoshWon'tStopTouchingMyDangComputer\obj\Debug\JoshWon'tStopTouchingMyDangComputer.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyDangComputer\JoshWon'tStopTouchingMyDangComputer\obj\Debug\JoshWon'tStopTouchingMyDangComputer.csproj.CoreCompileInputs.cache
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyDangComputer\JoshWon'tStopTouchingMyDangComputer\obj\Debug\JoshWon'tStopTouchingMyDangComputer.exe
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyDangComputer\JoshWon'tStopTouchingMyDangComputer\obj\Debug\JoshWon'tStopTouchingMyDangComputer.pdb

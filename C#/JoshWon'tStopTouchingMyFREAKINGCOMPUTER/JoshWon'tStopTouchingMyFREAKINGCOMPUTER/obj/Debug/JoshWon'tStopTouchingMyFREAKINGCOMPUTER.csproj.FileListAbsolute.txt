@@ -1,0 +1,11 @@
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\obj\Debug\JoshWon'tStopTouchingMyFREAKINGCOMPUTER.csproj.AssemblyReference.cache
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\obj\Debug\JoshWon'tStopTouchingMyFREAKINGCOMPUTER.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\obj\Debug\Game.Form1.resources
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\obj\Debug\JoshWon_tStopTouchingMyFREAKINGCOMPUTER.Properties.Resources.resources
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\obj\Debug\JoshWon'tStopTouchingMyFREAKINGCOMPUTER.csproj.GenerateResource.cache
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\obj\Debug\JoshWon'tStopTouchingMyFREAKINGCOMPUTER.csproj.CoreCompileInputs.cache
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\bin\Debug\JoshWon'tStopTouchingMyFREAKINGCOMPUTER.exe.config
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\bin\Debug\JoshWon'tStopTouchingMyFREAKINGCOMPUTER.exe
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\bin\Debug\JoshWon'tStopTouchingMyFREAKINGCOMPUTER.pdb
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\obj\Debug\JoshWon'tStopTouchingMyFREAKINGCOMPUTER.exe
+C:\Users\jsfis612\Documents\sopmore-yeer\C#\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\JoshWon'tStopTouchingMyFREAKINGCOMPUTER\obj\Debug\JoshWon'tStopTouchingMyFREAKINGCOMPUTER.pdb
