@@ -27,12 +27,14 @@ namespace Game
         }
         public virtual void tick()
         {
-            movedown();
+           
         }
         virtual public bool collision(PictureBox other)
         {
             Debug.Print(m_picture.Name + " collided with " + other.Name);
             return false;//  don't go through stuff
+            if (other.Name == "ball")
+                return false;
         }
         public void move(int X, int Y)
         {
